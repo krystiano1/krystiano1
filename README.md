@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Krystian
+- 🌱 I’m currently learning Python nad SQL
+- 📫 How to reach me krystian9540@op.pl
